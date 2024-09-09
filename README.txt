@@ -1,4 +1,4 @@
-Jeu du plus ou moins, entre 0 et 1000, réalisé par Quentin Guardia (qguardia66@gmail.com)
+Jeu du plus ou moins, entre 0 et 1000, réalisé par Quentin Guardia (quentin.guardia@protonmail.com)
 
 Compilation:
 	make
